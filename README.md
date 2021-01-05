@@ -14,6 +14,10 @@ Using python to scarp data web site to download the information and generate dat
 In this link, please find the story proposed to be used in an annual Strategic Planning Sessions for the New York Citi Bike Program and presented to city officials looking to publicize and improve the city program:
 https://public.tableau.com/profile/laura.ang.lica.torres.fern.ndez#!/vizhome/Tableau_Challenge_Citi_Bike_Analytics/Story1?publish=yes  
 
+![alt text][story]
+
+[story]: https://github.com/ltorresfdz/tableau_challenge/blob/main/Story%20pic.jpg "Tableau Challenge"
+
 In the Story created there are 7 points, each one with different dashboard information:
 1)	General Overview of Ridership 2019 vs. 2020:  Presents a dashboard with visualization or total trips made by month.
 2)	Identify Peak Days and Peak Hours for Traffic Safety Measures: presents graphs comparing 2019 vs. 2020 total number of trips by day of the month. 

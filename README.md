@@ -12,7 +12,7 @@ Using python to scarp data web site to download the information and generate dat
 
 **Reporting Description:**  
 In this link, please find the story proposed to be used in an annual Strategic Planning Sessions for the New York Citi Bike Program and presented to city officials looking to publicize and improve the city program:
-https://public.tableau.com/profile/laura.ang.lica.torres.fern.ndez#!/vizhome/Tableau_Challenge_Citi_Bike_Analytics/Story1?publish=yes  
+https://public.tableau.com/profile/laura.ang.lica.torres.fern.ndez#!/vizhome/Tableau_Challenge_16098812778150/Story1
 
 ![alt text][story]
 

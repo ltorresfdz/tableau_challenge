@@ -7,7 +7,7 @@ BOOT CAMP ITESM  -  TABLEAU HOMEWORK
 Purpose of this ITESM Boot Camp Data Analytics Tableau Assignment:  implement a dashboard or sophisticated reporting process for the New York Citi Bike Program.  
 
 **Data information:**  
-Data source: Citi Bike Data
+Data source: [Citi Bike Data](https://www.citibikenyc.com/system-data)
 Using python to scarp data web site to download the information and generate data frame, then convert to csv files.   Timespan used for analysis is 2019 and 2020.  
 
 **Reporting Description:**  
